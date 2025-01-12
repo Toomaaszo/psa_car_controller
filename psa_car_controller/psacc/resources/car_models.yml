@@ -667,3 +667,5 @@
   fuel_capacity: 50
   abrp_name:
   reg: VR7BDHNSXR.*
+  max_elec_consumption: 0
+  max_fuel_consumption: 30
